@@ -55,6 +55,26 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
+
+        <Row>
+          <Col md={8} className="home-about-description">
+            <h1 style={{ fontSize: "2.6em" }}>
+              Achievements
+            </h1><br></br>
+            <p>
+             - Ranked in <span className="purple">Top 1%  </span> percent in <span className="purple">Tryhackme </span>
+            </p><br></br>
+            <p>
+             - Under <span className="purple">Top 10  </span> team in the <span className="purple">Smart India Hackathon</span> University level
+            </p><br></br>
+            <p>
+             - Secured <span className="purple">2nd </span> position in <span className="purple">Critical Thinking event </span>at university.
+            </p><br></br>
+          </Col>
+          
+        </Row>
+
+
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
@@ -104,6 +124,8 @@ function Home2() {
               </li>
             </ul>
           </Col>
+
+
         </Row>
       </Container>
     </Container>

@@ -9,11 +9,9 @@ import {
   DiPython,
   DiGit,
   DiDocker,
-  DiMysql
+  DiMysql,
 } from "react-icons/di";
 import {
-  SiFirebase,
-  SiNextdotjs,
   SiSolidity,
   SiGnubash,
   SiJenkins,
