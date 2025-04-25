@@ -33,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Securing systems isn't just a job—it's a responsibility to make the digital world safer for everyone."
           </p>
-          <footer className="blockquote-footer">Harsh Choudhary</footer>
+          <footer className="blockquote-footer">Rahul</footer>
         </blockquote>
       </Card.Body>
     </Card>
