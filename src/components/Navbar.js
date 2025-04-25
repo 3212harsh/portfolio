@@ -92,15 +92,15 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/certificate"
-                onClick={() => updateExpanded(false)}
-              >
-                <ImBlog  style={{ marginBottom: "2px" }} /> Certifications
-              </Nav.Link>
-            </Nav.Item>
+            // <Nav.Item>
+            //   <Nav.Link
+            //     as={Link}
+            //     to="/certificate"
+            //     onClick={() => updateExpanded(false)}
+            //   >
+            //     <ImBlog  style={{ marginBottom: "2px" }} /> Certifications
+            //   </Nav.Link>
+            // </Nav.Item>
 
             {/* <Nav.Item>
               <Nav.Link
