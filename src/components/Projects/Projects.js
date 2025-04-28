@@ -27,7 +27,7 @@ function Projects() {
             isBlog={false}
             title="Exploit Arena"
             description="A Capture The Flag (CTF) platform designed for cybersecurity training and competitions. Built with Docker, React, and Node.js, it features dynamic challenge deployment, scoreboard, and user management."
-            ghLink="https://github.com/3212harsh/Exploit_Arena" // Replace with actual GitHub link
+            ghLink="https://github.com/rahulrao2005"    //"https://github.com/3212harsh/Exploit_Arena"  Replace with actual GitHub link
             demoLink="https://exploit-arena-demo.com" // Replace with actual demo link if available
           />
         </Col>
@@ -38,7 +38,7 @@ function Projects() {
             isBlog={false}
             title="Security Patrol"
             description="A Cloud Security Management tool that audits AWS infrastructure for misconfigurations and vulnerabilities. Features real-time alerts, reporting dashboard, and compliance checks."
-            ghLink="https://github.com/3212harsh/securitypatrol" // Replace with actual GitHub link
+            ghLink= "https://github.com/rahulrao2005"  //"https://github.com/3212harsh/securitypatrol"  Replace with actual GitHub link
             demoLink="https://security-patrol-demo.com" // Replace with actual demo link if available
           />
         </Col>
@@ -49,7 +49,7 @@ function Projects() {
             isBlog={false}
             title="Threat Intel Tool"
             description="A threat intelligence platform for organizations that aggregates threat feeds, correlates IOCs, and provides actionable insights through dashboards and alerting system."
-            ghLink="https://github.com/3212harsh/threat-intel-tool" // Replace with actual GitHub link
+            ghLink="https://github.com/rahulrao2005"  // "https://github.com/3212harsh/threat-intel-tool"  Replace with actual GitHub link
             demoLink="https://threat-intel-tool-demo.com" // Replace with actual demo link if available
           />
         </Col>
